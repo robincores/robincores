@@ -10,7 +10,7 @@ Welcome to **robincores**, the home for R8 architecture development, including t
 ## 🌱 I’m currently learning:
 - Advanced CPU design principles to refine and expand the **R8 family**.
 - Building a robust toolchain and ecosystem for the **R8 CPU family**.
-- Bringing the **Robin824** home computer project to life, powered by the **R824 CPU**.
+- Bringing the **Robin 824** home computer project to life, powered by the **R824 CPU**.
 
 ## 💞️ I’m looking to collaborate on:
 - **Open-source CPU development**: If you're passionate about CPU design or emulator development, let’s build something great together!
