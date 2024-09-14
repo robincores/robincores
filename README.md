@@ -1,4 +1,4 @@
-# 👋 Hi, I’m George Georgopoulos
+# 👋 Hi, I’m George G.
 
 Welcome to **robincores**, the home for R8 architecture development, including the **R8** CPU family, its assembler, and various related projects! I'm passionate about building efficient and flexible CPUs from the ground up, inspired by classic designs like the **Transputer** and modern architectures like **RISC-V** and **JVM**. Here's what you can expect from my work:
 
